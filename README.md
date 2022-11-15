@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Ridwandk
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning programing
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
